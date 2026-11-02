@@ -1,0 +1,6 @@
+name: sioVpnApi
+version: '${project.version}'
+main: dev.sioworker.sva.SvaPlugin
+api-version: '1.21.11'
+description: Minecraft Paper plugin to detect VPNs
+authors: [sioworker]
